@@ -1,0 +1,50 @@
+Compounds_dgidb	Chemical source
+Acetylleucine 	Metabolite
+Verbascoside 	Plant
+Apigenin	Plant
+Berberine	Plant
+Calcitriol	Metabolite
+Citronellol	Plant
+Clofazimine	Synthetic
+Creatine	Metabolite
+Cysteamine birtartrate	Metabolite
+Guanabenz	Synthetic
+Hesperidin	Plant
+Idebenone	Semisynthetic
+Karanjin	Plant
+Mangiferin heptasulfate	Plant
+Melatonin	Metabolite
+Melatonin	Metabolite
+Melatonin	Metabolite
+Entinostat	Semisynthetic
+Acetylcysteine 	Metabolite
+Naringenin	Plant
+Niacinamide	Fungi
+Nimodipine	Semisynthetic
+Norepinephrine	Metabolite
+Olmesartan medoxomil	Semisynthetic
+Paeonol	Plant
+Resveratrol	Plant
+Resveratrol	Plant
+Riboflavin	Metabolite
+Selenium	Metabolite
+Serotonin	Metabolite
+Curcumin	Plant
+PRE-084	Synthetic
+PRE-084	Synthetic
+Taurursodiol	Unknown
+Terazosin	Unknown
+Trifluoperazine	Plant
+Ascorbic acid	Metabolite
+Chrysin	Plant
+Tangeretin	Plant
+Sin registros	Synthetic
+Sin registros	Plant
+Sin registros 	Animal
+Sin registros	Plant
+Sin registros	Synthetic
+Sin registros	Animal
+Sin registros	Metabolite
+Sin registros	Semisynthetic
+Sin registros	Plant
+Sin registros	Plant

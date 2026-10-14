@@ -1,0 +1,50 @@
+Compounds_dgidb	Diseases
+Acetylleucine	ARSACS
+Verbascoside	Alzheimer’s disease
+Apigenin	Hyperglycemia-associated amnesia
+Berberine	Parkinson’s disease
+Calcitriol	Parkinson’s disease
+Citronellol	Parkinson's disease
+Clofazimine	Huntington’s disease
+Creatine	Huntington’s disease
+Cysteamine birtartrate	Leigh syndrome
+Guanabenz	Amyotrophic lateral sclerosis
+Hesperidin	Parkinson’s disease
+Idebenone	Limb-girdle muscular dystrophy 2G
+Karanjin	Non-specific disease
+Mangiferin heptasulfate	Parkinson’s disease
+Melatonin	Huntington’s disease
+Melatonin	Parkinson’s disease
+Melatonin	Parkinson's disease
+Entinostat	Parkinson’s disease
+Acetylcysteine	Leigh syndrome
+Naringenin	Parkinson’s disease
+Niacinamide	Leigh syndrome
+Nimodipine	Parkinson’s disease
+Norepinephrine	Parkinson’s disease
+Olmesartan medoxomil	Parkinson’s disease
+Paeonol	Parkinson’s disease
+Resveratrol	Parkinson’s disease
+Resveratrol	Huntington’s disease
+Riboflavin	Riboflavin transporter deficiency
+Selenium	Parkinson’s disease
+Serotonin	Parkinson’s disease
+Curcumin	Parkinson’s disease
+PRE-084	Wolfram síndrome
+PRE-084	Amyotrophic lateral sclerosis
+Taurursodiol	ARSACS
+Terazosin	Amyotrophic lateral sclerosis
+Trifluoperazine	Parkinson’s disease
+Ascorbic acid	Huntington’s disease
+Chrysin	Parkinson’s disease
+Tangeretin	Alzheimer’s disease
+Sin registros	Parkinson’s disease
+Sin registros	Parkinson’s disease
+Sin registros	Parkinson’s disease
+Sin registros	Parkinson’s disease
+Sin registros	Parkinson’s disease
+Sin registros	Non-specific disease
+Sin registros	Parkinson’s disease
+Sin registros	Parkinson’s disease
+Sin registros	Parkinson’s disease
+Sin registros	Parkinson’s disease
