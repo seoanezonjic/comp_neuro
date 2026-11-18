@@ -8,8 +8,8 @@ Chicoric acid	Plant
 Clofazimine	Synthetic
 Creatine	Endogenous
 Cysteamine birtartrate	Semisynthetic
-Fucoxanthin 	Protista
-Guanabenz  	Synthetic
+Fucoxanthin	Protista
+Guanabenz	Synthetic
 Hesperidin	Plant
 Idebenone	Semisynthetic
 Karanjin	Plant
@@ -21,15 +21,14 @@ Entinostat	Semisynthetic
 N- Acetylcisteine	Semisynthetic
 Naringenin	Plant
 Niacinamide	Endogenous
-Nimodipine 	Synthetic
+Nimodipine	Synthetic
 Norepinephrine	Endogenous
 Olmesartan	Synthetic
 Paeonolum	Plant
 Phenazine	Bacteria
-PRE-084 	Synthetic
 PRE-084	Synthetic
-Protocatechuic acid 	Plant
-Chrysin 	Plant
+Protocatechuic acid	Plant
+Chrysin	Plant
 Resveratrol	Plant
 Riboflavin	Endogenous
 Salubrinal	Semisynthetic

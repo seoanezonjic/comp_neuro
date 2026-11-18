@@ -8,8 +8,8 @@ Chicoric acid	Parkinson’s disease
 Clofazimine	Huntington’s disease
 Creatine	Huntington’s disease
 Cysteamine birtartrate	Leigh syndrome
-Fucoxanthin 	Parkinson’s disease
-Guanabenz  	Amyotrophic lateral sclerosis
+Fucoxanthin	Parkinson’s disease
+Guanabenz	Amyotrophic lateral sclerosis
 Hesperidin	Parkinson’s disease
 Idebenone	Limb – girdle muscular dystrophy type 2G
 Karanjin	Non-specific disease
@@ -21,15 +21,15 @@ Entinostat	Parkinson’s disease
 N- Acetylcisteine	Leigh syndrome
 Naringenin	Parkinson’s disease
 Niacinamide	Leigh syndrome
-Nimodipine 	Parkinson’s disease
+Nimodipine	Parkinson’s disease
 Norepinephrine	Parkinson’s disease
 Olmesartan	Gaucher disease
 Paeonolum	Parkinson’s disease
 Phenazine	Amyotrophic lateral sclerosis
-PRE-084 	Wolfram syndrome
+PRE-084	Wolfram syndrome
 PRE-084	Amyotrophic lateral sclerosis
-Protocatechuic acid 	Parkinson’s disease
-Chrysin 	Parkinson’s disease
+Protocatechuic acid	Parkinson’s disease
+Chrysin	Parkinson’s disease
 Resveratrol	Parkinson’s disease
 Riboflavin	Riboflavin transporter deficiency
 Salubrinal	Amyotrophic lateral sclerosis
@@ -41,4 +41,3 @@ Terazosin	Amyotrophic lateral sclerosis
 Trifluoperazine	Parkinson’s disease
 Tubastatin A	Parkinson’s disease
 Ascorbic acid	Huntington’s disease
-
