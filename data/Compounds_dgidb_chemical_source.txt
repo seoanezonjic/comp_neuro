@@ -1,50 +1,43 @@
 Compounds_dgidb	Chemical source
-Acetylleucine 	Metabolite
-Verbascoside 	Plant
+Verbascoside	Plant
+Aliskiren	Synthetic
 Apigenin	Plant
-Berberine	Plant
-Calcitriol	Metabolite
-Citronellol	Plant
+Calcitriol	Endogenous
+Captopril	Synthetic
+Chicoric acid	Plant
 Clofazimine	Synthetic
-Creatine	Metabolite
-Cysteamine birtartrate	Metabolite
-Guanabenz	Synthetic
+Creatine	Endogenous
+Cysteamine birtartrate	Semisynthetic
+Fucoxanthin 	Protista
+Guanabenz  	Synthetic
 Hesperidin	Plant
 Idebenone	Semisynthetic
 Karanjin	Plant
-Mangiferin heptasulfate	Plant
-Melatonin	Metabolite
-Melatonin	Metabolite
-Melatonin	Metabolite
+Mangiferin	Plant
+Melatonin	Endogenous
+Melatonin	Endogenous
+Melatonin	Endogenous
 Entinostat	Semisynthetic
-Acetylcysteine 	Metabolite
+N- Acetylcisteine	Semisynthetic
 Naringenin	Plant
-Niacinamide	Fungi
-Nimodipine	Semisynthetic
-Norepinephrine	Metabolite
-Olmesartan medoxomil	Semisynthetic
-Paeonol	Plant
-Resveratrol	Plant
-Resveratrol	Plant
-Riboflavin	Metabolite
-Selenium	Metabolite
-Serotonin	Metabolite
-Curcumin	Plant
+Niacinamide	Endogenous
+Nimodipine 	Synthetic
+Norepinephrine	Endogenous
+Olmesartan	Synthetic
+Paeonolum	Plant
+Phenazine	Bacteria
+PRE-084 	Synthetic
 PRE-084	Synthetic
-PRE-084	Synthetic
-Taurursodiol	Unknown
-Terazosin	Unknown
-Trifluoperazine	Plant
-Ascorbic acid	Metabolite
-Chrysin	Plant
+Protocatechuic acid 	Plant
+Chrysin 	Plant
+Resveratrol	Plant
+Riboflavin	Endogenous
+Salubrinal	Semisynthetic
+Selenium	Plant
+Serotonin	Endogenous
 Tangeretin	Plant
-Sin registros	Synthetic
-Sin registros	Plant
-Sin registros 	Animal
-Sin registros	Plant
-Sin registros	Synthetic
-Sin registros	Animal
-Sin registros	Metabolite
-Sin registros	Semisynthetic
-Sin registros	Plant
-Sin registros	Plant
+Tauroursodeoxycholic acid	Endogenous
+Terazosin	Synthetic
+Trifluoperazine	Synthetic
+Tubastatin A	Synthetic
+Ascorbic acid	Endogenous

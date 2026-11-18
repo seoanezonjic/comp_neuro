@@ -1,50 +1,44 @@
 Compounds_dgidb	Diseases
-Acetylleucine	ARSACS
 Verbascoside	Alzheimer’s disease
+Aliskiren	Gaucher disease
 Apigenin	Hyperglycemia-associated amnesia
-Berberine	Parkinson’s disease
 Calcitriol	Parkinson’s disease
-Citronellol	Parkinson's disease
+Captopril	Gaucher disease
+Chicoric acid	Parkinson’s disease
 Clofazimine	Huntington’s disease
 Creatine	Huntington’s disease
 Cysteamine birtartrate	Leigh syndrome
-Guanabenz	Amyotrophic lateral sclerosis
+Fucoxanthin 	Parkinson’s disease
+Guanabenz  	Amyotrophic lateral sclerosis
 Hesperidin	Parkinson’s disease
-Idebenone	Limb-girdle muscular dystrophy 2G
+Idebenone	Limb – girdle muscular dystrophy type 2G
 Karanjin	Non-specific disease
-Mangiferin heptasulfate	Parkinson’s disease
+Mangiferin	Parkinson’s disease
 Melatonin	Huntington’s disease
 Melatonin	Parkinson’s disease
-Melatonin	Parkinson's disease
+Melatonin	Parkinson’s disease
 Entinostat	Parkinson’s disease
-Acetylcysteine	Leigh syndrome
+N- Acetylcisteine	Leigh syndrome
 Naringenin	Parkinson’s disease
 Niacinamide	Leigh syndrome
-Nimodipine	Parkinson’s disease
+Nimodipine 	Parkinson’s disease
 Norepinephrine	Parkinson’s disease
-Olmesartan medoxomil	Parkinson’s disease
-Paeonol	Parkinson’s disease
+Olmesartan	Gaucher disease
+Paeonolum	Parkinson’s disease
+Phenazine	Amyotrophic lateral sclerosis
+PRE-084 	Wolfram syndrome
+PRE-084	Amyotrophic lateral sclerosis
+Protocatechuic acid 	Parkinson’s disease
+Chrysin 	Parkinson’s disease
 Resveratrol	Parkinson’s disease
-Resveratrol	Huntington’s disease
 Riboflavin	Riboflavin transporter deficiency
+Salubrinal	Amyotrophic lateral sclerosis
 Selenium	Parkinson’s disease
 Serotonin	Parkinson’s disease
-Curcumin	Parkinson’s disease
-PRE-084	Wolfram síndrome
-PRE-084	Amyotrophic lateral sclerosis
-Taurursodiol	ARSACS
+Tangeretin	Alzheimer’s disease
+Tauroursodeoxycholic acid	Autosomal recessive spastic ataxia of Charlevoix-Saguenay
 Terazosin	Amyotrophic lateral sclerosis
 Trifluoperazine	Parkinson’s disease
+Tubastatin A	Parkinson’s disease
 Ascorbic acid	Huntington’s disease
-Chrysin	Parkinson’s disease
-Tangeretin	Alzheimer’s disease
-Sin registros	Parkinson’s disease
-Sin registros	Parkinson’s disease
-Sin registros	Parkinson’s disease
-Sin registros	Parkinson’s disease
-Sin registros	Parkinson’s disease
-Sin registros	Non-specific disease
-Sin registros	Parkinson’s disease
-Sin registros	Parkinson’s disease
-Sin registros	Parkinson’s disease
-Sin registros	Parkinson’s disease
+
